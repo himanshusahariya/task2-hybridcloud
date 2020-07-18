@@ -270,8 +270,3 @@ resource "null_resource" "link" {
     command = "echo 'http://${aws_instance.ins1.public_ip}/test1.php' > Link_To_Webpage.txt"
   } 
 } 
-
-/* 
-"sudo mount ${aws_efs_file_system.my_file_system.id}:/  /var/www/html",
-      "sudo echo '${aws_efs_file_system.my_file_system.id}:/ /var/www/html efs defaults,_netdev 0 0' >> /etc/fstab",
-      */
