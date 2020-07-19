@@ -10,4 +10,4 @@
    labhanshusahsriya@gmail.com
    
 ## LinkedIn :
-   www.linkedin.com/in/himanshu-sahariya-926513198
+   www.linkedin.com/in/IAmHimanshuSahariya
